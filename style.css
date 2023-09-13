@@ -35,3 +35,14 @@ body{
     padding: 1px;
     margin: 1px;
 }
+.container2{
+    width: 100%;
+}
+.rodape1{
+    float: left;
+    width: 80%;
+}
+.rodape2{
+    float: left;
+    width: 20%;
+}
