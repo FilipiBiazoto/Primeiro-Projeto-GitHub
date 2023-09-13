@@ -25,22 +25,13 @@ body{
     float: left;
     width: 24.85%;
     border: solid 1px;
-    padding: 110px;
     margin: 1px;
-
+    padding: 10px;
 }
 .mapas{
     float: left;
     width: 24.85%;
     border: solid 1px;
-    padding: 90px;
+    padding: 1px;
     margin: 1px;
-
-}
-.rodape{
-    width: 99.85%;
-    padding: 80px;
-    border: solid 1px;
-    margin: 1px;
-
 }
